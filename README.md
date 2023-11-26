@@ -1,2 +1,2 @@
 # heart-rate-peaks
-determining if there is a peak
+To write the function that determine if there is a "peak" at a given index of a list.
